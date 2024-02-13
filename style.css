@@ -9,4 +9,5 @@ div {
     border-radius: 50%;
     background-color: rgb(255, 140, 0);
     text-align: center;
+    margin: auto;
 }

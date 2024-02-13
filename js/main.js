@@ -1,6 +1,6 @@
 "use strict"
 
 
-function onBallClick() {
+function onBallClick(elBtn) {
     console.log("HELLO!")
 }
